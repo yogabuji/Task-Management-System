@@ -21,4 +21,5 @@ This Task Management System is a web application designed to help users create, 
 - PHP (version 7.0 or higher)
 - MySQL
 - A web server like Apache
+##output
 
