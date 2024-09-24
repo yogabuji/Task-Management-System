@@ -18,7 +18,7 @@ This Task Management System is a web application designed to help users create, 
 
 ## Installation 
 ## 1.clone the repository
-git clone https://github.com/yourusername/task-management-system.git
+https://github.com/yourusername/task-management-system.git
 ## Mysql database 
 - Create a new database in MySQL (e.g., task_management).
 - Import the provided tasks.sql file.
