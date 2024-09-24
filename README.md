@@ -16,10 +16,6 @@ This Task Management System is a web application designed to help users create, 
 - **Frontend**: Bootstrap (HTML5, CSS3, JavaScript)
 - **Other**: AJAX, jQuery for dynamic updates
 
-## Installation
-### Requirements
-- PHP (version 7.0 or higher)
-- MySQL
-- A web server like Apache
-##output
+## Installation and setup
+
 
