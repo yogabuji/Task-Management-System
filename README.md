@@ -17,5 +17,7 @@ This Task Management System is a web application designed to help users create, 
 - **Other**: AJAX, jQuery for dynamic updates
 
 ## Installation and setup
+- **1.clone the repository**
+- 
 
 
