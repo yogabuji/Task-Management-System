@@ -40,19 +40,19 @@ $dbname = "task_management";
 - Manage Tasks: View all tasks in the task list. You can edit, delete, or update the status of each task
 ## output
 - **Register page**
-- 
+  
 ![Screenshot (294)](https://github.com/user-attachments/assets/6484a54d-e066-4844-b4d8-d35fb07c1342)
 
 - **login page**
-- 
+ 
 ![Screenshot (295)](https://github.com/user-attachments/assets/e4b5905c-e6f3-4e8c-bb21-3d5a1b40c5e9)
 
 - **creat_task page**
-- 
+
 ![Screenshot (296)](https://github.com/user-attachments/assets/5663014e-c7ab-4ffe-8d46-01c2dd274fe3)
 
 - **Drashboard page**
-- 
+
 ![Screenshot (297)](https://github.com/user-attachments/assets/b108fd4c-a7f9-4aff-922e-fa8c379ed1c9)
 
 - **Edit_task page**
@@ -63,6 +63,6 @@ $dbname = "task_management";
   
 ![Screenshot (299)](https://github.com/user-attachments/assets/5e3aee7f-8e25-499a-a450-2c02a266dfa4)
 
-- **Delete**
+- **Delete_task page**
   
 ![Screenshot (300)](https://github.com/user-attachments/assets/d193d9d1-90ad-4eda-8560-14ad1c968d36)
