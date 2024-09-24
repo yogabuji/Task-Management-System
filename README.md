@@ -36,6 +36,7 @@ $dbname = "task_management";
 - Open the browser and navigate to http://localhost/task-management-system.
 ## Usage
 - Login/Register: Register a new user or log in with existing credentials.
+- After login you just change create.php into the URL.
 - Create Tasks: Navigate to the "Create Task" section, fill out the task details, and assign it to a user.
 - Manage Tasks: View all tasks in the task list. You can edit, delete, or update the status of each task
 ## output
