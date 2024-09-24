@@ -19,10 +19,25 @@ This Task Management System is a web application designed to help users create, 
 ## Installation and setup
 ## 1.clone the repository
 git clone https://github.com/yourusername/task-management-system.git
-## database
+## database setup
 - Create a new database in MySQL (e.g., task_management).
 - Import the provided tasks.sql file.
-
-
+## configure the database connection
+- Open the config.php file.
+- Set your database credentials .
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "task_management";
+?>
+## Run the project
+- Place the project folder in your server’s root directory (e.g., htdocs for XAMPP).
+- Open the browser and navigate to http://localhost/task-management-system.
+## Usage
+- Login/Register: Register a new user or log in with existing credentials.
+- Create Tasks: Navigate to the "Create Task" section, fill out the task details, and assign it to a user.
+- Manage Tasks: View all tasks in the task list. You can edit, delete, or update the status of each task
+## output
 
 
