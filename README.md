@@ -16,13 +16,13 @@ This Task Management System is a web application designed to help users create, 
 - **Frontend**: Bootstrap (HTML5, CSS3, JavaScript)
 - **Other**: AJAX, jQuery for dynamic updates
 
-## Installation and setup
+## Installation 
 ## 1.clone the repository
 git clone https://github.com/yourusername/task-management-system.git
-## database setup
+## Mysql database 
 - Create a new database in MySQL (e.g., task_management).
 - Import the provided tasks.sql file.
-## configure the database connection
+## Mysql credentials
 - Open the config.php file.
 - Set your database credentials .
 <?php
