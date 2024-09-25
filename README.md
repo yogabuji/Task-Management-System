@@ -67,3 +67,7 @@ $dbname = "task_management";
 - **Delete_task page**
   
 ![Screenshot (300)](https://github.com/user-attachments/assets/d193d9d1-90ad-4eda-8560-14ad1c968d36)
+
+- **Database Screenshot**
+![Screenshot (303)](https://github.com/user-attachments/assets/030c85bd-54d6-4c49-ab44-fdd284d8fc3b)
+
